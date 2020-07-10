@@ -129,6 +129,8 @@
     "regexpp": "^3.1.0",
     "regjsparser": "^0.6.0",
     "remark": "^12.0.0",
+    "san-anode-utils": "^3.9.1",
+    "san-for-swan": "3.7.9-fix.1",
     "scalameta-parsers": "^4.2.1",
     "shift-parser": "^7.0.0",
     "solidity-parser-antlr": "^0.4.0",
